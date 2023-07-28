@@ -9,6 +9,6 @@ entries:
     name: testchart
     type: application
     urls:
-    - https://github.com/dmarszal99/my-helm-charts/testchart-0.1.0.tgz
+    - https://github.com/dmarszal99/my-helm-charts/blob/main/testchart-0.1.0.tgz
     version: 0.1.0
 generated: "2023-07-28T16:08:24.333742+02:00"
